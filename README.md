@@ -39,9 +39,9 @@ Logistic Regression   | 0.825
 LGBM   | 0.874
 XGB   | 0.873
 Bagging (XGB) | **0.875**
-NN | 0.846
+NN | 0.854
 
-Below graph shows the AUC scores of the different classifiers evaluated on own test sets of the public dataset. Note that for the logistic regression barely any parameters are set to have a simple baseline. Also the neural network is far from being optimized.
+Below graph shows the AUC scores of the different classifiers evaluated on own test sets of the public dataset. Note that for the logistic regression barely any parameters are set to have a simple baseline. Further, feature engineering and binning
 
 <p align="center">
   <img src="./images/aucs.png" />
