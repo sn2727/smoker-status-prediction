@@ -41,7 +41,7 @@ XGB   | 0.873
 Bagging (XGB) | **0.875**
 NN | 0.854
 
-Below graph shows the AUC scores of the different classifiers evaluated on own test sets of the public dataset. Note that for the logistic regression barely any parameters are set to have a simple baseline. Further, feature engineering and binning
+Below graph shows the AUC scores of the different classifiers evaluated on own test sets of the public dataset. Note that for the logistic regression barely any parameters are set to have a simple baseline. Further, feature engineering still has some room for improvements which would likely increase performance.
 
 <p align="center">
   <img src="./images/aucs.png" />
